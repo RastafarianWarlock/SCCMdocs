@@ -14,17 +14,22 @@ ms.topic: article
 ms.assetid: 9e447e34-0943-49ed-b6ba-3efebf3566c1
 caps.latest.revision: 10
 caps.handback.revision: 0
-author: Dougebyms.author: dougebymanager: angrobe
+author: Dougeby
+ms.author: dougeby
+manager: angrobe
 
 ---
-# Prepare for unknown computer deployments in System Center Configuration Manager*Applies to: System Center Configuration Manager (Current Branch)*
+# Prepare for unknown computer deployments in System Center Configuration Manager
+
+*Applies to: System Center Configuration Manager (Current Branch)*
+
 Use the information in this topic to deploy operating systems to unknown computers in your System Center Configuration Manager environment. An unknown computer is a computer that is not managed by Configuration Manager. This means that there is no record of these computers in the Configuration Manager database. Unknown computers include the following:  
 
 -   A computer where the Configuration Manager client is not installed  
 
 -   A computer that is not imported into Configuration Manager  
 
--   A computer that is not been discovered by Configuration Manager  
+-   A computer that has not been discovered by Configuration Manager  
 
  You can deploy operating systems to unknown computers with the following deployment methods:  
 
